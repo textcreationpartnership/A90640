@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Pair of spectacles, very useful, and needful, for all those that read Mr. Baxters Catholick charity, in his book called the Cure of church divisions, that so they may see and understand what they read, and not be led away with errour instead of truth. / Written by a Lover of truth and peace, and of all the people of peace.</title>
+         </titleStmt>
+         <extent>Approx. 86KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90640</idno><idno type="EEBO-CITATION">45097884</idno>
+  <idno type="VID">171463</idno>
+  <idno type="EEBO-PROQUEST">2240913269</idno>
+  
+            <idno type="STC">Wing P196A</idno>
+            <idno type="STC">ESTC R181405</idno>
+            <idno type="OCLC">45097884</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90640)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171463)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2575:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Pair of spectacles, very useful, and needful, for all those that read Mr. Baxters Catholick charity, in his book called the Cure of church divisions, that so they may see and understand what they read, and not be led away with errour instead of truth. / Written by a Lover of truth and peace, and of all the people of peace.</title>
+               </titleStmt>
+               <extent>[4], 27, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>Printed in the year, 1670.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Baxter, Richard, 1615-1691. --  Cure of church-divisions.</term>
+               <term type="topical_term">Church polity.</term>
+               <term type="topical_term">Schism.</term>
+               <term type="topical_term">Church controversies.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171463:1"/>
+            <p> A PAIR OF SPECTACLES, Very useful, and needful, for all those that read Mr. Baxters Catholick Charity, in his Book called the <hi>Cure of CHURCH DIVISIONS,</hi> that so they may see and understand the bet<g ref="char:EOLhyphen"/>ter what they read, and not be led away with errour in<g ref="char:EOLhyphen"/>stead of truth.</p>
+            <p>Written by a Lover of Truth and Peace, and of all the Peo<g ref="char:EOLhyphen"/>ple of Peace.</p>
+            <q>
+               <bibl>Zech. 8. 19.</bibl>
+               <p>
+                  <hi>Therefore love the Truth and Peace.</hi>
+               </p>
+               <bibl>Isa. 39. 8.</bibl>
+               <p>
+                  <hi>For there shall be Peace and Truth in my dayes</hi>
+               </p>
+            </q>
+            <p>Printed in the Year, 1670.</p>
+            <pb facs="tcp:171463:2"/>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:171463:2"/>
+            <head>The preface to the Reader,</head>
+            <p>COurteous Reader. Mr. <hi>Baxters</hi> Book tituled <hi>the cure of Church Divisions,</hi> accidentally, or rather providenti<g ref="char:EOLhyphen"/>ally, comming to my hands, wherein he seems to dis<g ref="char:EOLhyphen"/>cover so much of Catholike Charity to the Church of Christ to recover and preserve it in unity, which is indeed in it self (if rightly exercised in the true light) a blessed Evangelicall frame of spirit, and work seasonable for this day, therefore I would have none to suppose that my intentions in that which follows, is either to quarrel against the thing in it self, no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a Christ like frame of spirit, indeed to have a heart and hand in truth of love to the Lord, and his people, to indeavour to heal the divisions of his Church, provided there be spirituall skill in the work, that we miscarry not, and that under the noti<g ref="char:EOLhyphen"/>on of curing Church divisions. We do not endeavour the cure of the breaches that God hath made in the antichristian Church, the whore of <hi>Babilon,</hi> in stead of curing the Church of Christ, and so fall foul with the true Church because they dare not unite to the cure of <hi>Babilon▪</hi> Or,</p>
+            <p>
+               <hi>Secondly.</hi> Against all the matter contained in the Book, nay for there are many pretious and sollid truthes therein, worthy to be observed of all the Lords people, though much of mixture of that which is not sound, especially in matters rela<g ref="char:EOLhyphen"/>ting to the Church of Christ, which is the cause of the ensuing lines in which I have indeavoured plainness and brevity by passing by many things of differing apprehensions; only fixing on such things as are of general and common concernment a<g ref="char:EOLhyphen"/>mongst all sorts of serious christians in this inquiring day, nor,</p>
+            <p>
+               <hi>Thirdly,</hi> Is it the person gifts or grace, of the man, I meddle
+<pb facs="tcp:171463:3"/> with or in the least design to oppose, or lay open to contempt he is a man who in Face (to my knowledge) I never saw, but by what I have read in his works, I have always judged him to be a man both of gifts, parts and grace, though in many things differing from me, and I must say that those unsound things, brought forth in this book, aggravated with the circum<g ref="char:EOLhyphen"/>stance of time and end, hath not destroyed my Charity to<g ref="char:EOLhyphen"/>wards him looking on it as that which flows from humane in<g ref="char:EOLhyphen"/>firmities and mistaken zeal, and my desire is that all that fear the Lord, may have the like charity towards him, and to<g ref="char:EOLhyphen"/>wards all who conscientiously differ from them, that hold to the head Christ Jesus, without which they can be no part of his Church <hi>Eph.</hi> 4. 15. <hi>Col.</hi> 2. 19. these things <hi>I</hi> first pre<g ref="char:EOLhyphen"/>mise, there by to prevent any mistakes, offence, or scandal that might through temptation, come in the mind of the Rea<g ref="char:EOLhyphen"/>der relating either to him or me, my method in the ensuing lines, is by way of inquiry into some of the most material things, stated in his book wherein the difference lyeth between him and (as I think I may safely say) most of the most serious and inquiring, both ministers and Christians at this day, a<g ref="char:EOLhyphen"/>bout Conformity or Nonconformity, to the requirings &amp; customes of men, in the things relating to Jesus our Lord, &amp; his church, neither would I have any to think that my manner of speaking in discovery of the evil of the matter, is thereby to derogate from the godlyness of the person, being very sensi<g ref="char:EOLhyphen"/>ble that good men are liable to temptation, &amp; they may, ei<g ref="char:EOLhyphen"/>ther through error in judgement; self love, or mistaken zeal, miscarry and do work against the Lord, when they think they are working for him, I say no more, but leave you to that which followeth and to the guidance of the Lord in the read<g ref="char:EOLhyphen"/>ing of it.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:171463:3"/>
+            <head>A Pair of Spectacles, needful, and useful for all that read Mr. <hi>Baxters</hi> book called the Cure of CHURCH DIVI<g ref="char:EOLhyphen"/>SIONS.</head>
+            <p n="1">1. <hi>Query.</hi>
+               <seg rend="decorInit">W</seg>Hether the difference between the younger and elder sort of Christians and the Pride that younger Christians are liable to and thereby are subject to miscarry in his 1 and 2 divisions, have so much in it as Mr. <hi>Baxter</hi> pretends unto? Although it is true, there is much of weight in it, and doubtless youth, and younger years, should reverence age, especially where it is found in a <hi>way of righteousness</hi> and submissively wait and inquire, sudden, rash, and unadvised proceedings of young heads, in their judgings, sepa<g ref="char:EOLhyphen"/>rations, and divisions, in religious things, have been too common, and good it would be if that both young and old, had more care and consceince, to be seeking after solidness and clearness, in sound<g ref="char:EOLhyphen"/>ness of judgements; to act in the great and weighty Affairs of Religion.</p>
+            <p>Yet I Query whether young Christians, must pin their faith and practice on the judgement of the aged, without solid and satisfacto<g ref="char:EOLhyphen"/>ry grounds from the Scriptures? And whether it do not concern every Christistian according to their capacities, to come to a right understanding in the matters of Religion, relating both to faith and practice; as much and as well as their Teachers? I mind as to a right and true understanding, seeing that every one <hi>must be saved by his own faith,</hi> and every one must <hi>giue an account of himself to God, Rom.</hi> 14. 10.</p>
+            <p>And whether we have not clear instances in Scripture, of Gods teaching young men beyond the old, some of which I shall instance,
+<pb n="2" facs="tcp:171463:4"/> 1 <hi>Sam.</hi> 2. 18 19. and <hi>chap.</hi> 3. throughout, a lively instance of the Lords appearing unto the Child <hi>Samuel,</hi> when old <hi>Ely</hi> was left out in that matter of <hi>Elihu, Job.</hi> 323. to <hi>v.</hi> 10. of the Prophet, <hi>Psal.</hi> 119. 98. 99. 100. <hi>v:</hi> and the young man the Prophet, 2 <hi>King</hi> 9. 1. 4. and 1 <hi>King.</hi> 13. as by the story is evident, a younger Prophet came from <hi>Judah</hi> by the word of the Lord to <hi>Jerebeam,</hi> and an old Prophet deceived him to his damage, <hi>v.</hi> 1. 11. 18 <hi>Timothy</hi> was young and youthly, as is evident by the Scripture, 2 <hi>Tim.</hi> 3. 15. with 1 <hi>Tim.</hi> 4. 12. Let no man dispise thy youth, 2 <hi>Tim.</hi> 2. 22. yet such a Minister of Christ, as of whom <hi>Paul</hi> speaketh that he had <hi>no man like minded,</hi> i. e. No Minister <hi>li<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e minded,</hi> who did <hi>naturally care for the estate of the Church, Timothy</hi> the youngest, yet the best Minister that <hi>Paul</hi> had to imploy in the Lords and the Churches ser<g ref="char:EOLhyphen"/>vice. And whether the Ministring Elders, Pastors and Rulers, were indeed chosen out of the elders, in age as Mr. <hi>Baxter</hi> asserteth <hi>pag.</hi> 3. or out of the best gifted and qualified persons in the Church whether young or old? according to <hi>Acts</hi> 6. 3. 1 <hi>Tim</hi> 3. <hi>chap.</hi> And whether that qualification mentioned <hi>v.</hi> 6. <hi>not a Novice,</hi> intends one young in years, or one newly come to the Faith, planted or sown of late, new begun <hi>i. e.</hi> in Christianity. By all which it seems that although it is a truth, that it very much concerns young Christians, very much to take heed of Pride, and to inquire and learn in subjection of their teachers, yet its honourable and commendable both for young and old to search the Scriptures to see whether the things taught them by their elders be so or not, <hi>Act.</hi> 17. 11. and not pin their faith on any mans teaching besides and without the Scriptures, nor rest in the interpretations thereof, without an understanding therein, the contrary seems to incline too much to Popish Doctors, to believe as the Church Believes, and that must be, the Churches representives, <hi>i. e.</hi> their Clergy, and called formerly, commonly opposed by the <hi>Protestants.</hi>
+            </p>
+            <p n="2">2. <hi>Query.</hi> Whether that aged Men and Teachers, have not in former dayes (and so may still) been as liable to miscarry and mis<g ref="char:EOLhyphen"/>lead the people of God, as the younger, see instances for this Isa. 9. 15. 16. <hi>The antient and the honorable he is the head, the Prophet that teacheth lies, he is the tail, for the leaders of this people cause them to err,</hi>
+               <pb n="3" facs="tcp:171463:4"/>
+               <hi>&amp;c.</hi> And who was it that rejected Christ, when he came in the flesh, but the elders and leaders of the people, <hi>Acts</hi> 4. 11. hence Christ saith, <hi>Mat.</hi> 15. 14. <hi>they be blind leaders of the blind,</hi> and whence is it that the Apostle exherteth. 2 <hi>Tit.</hi> 2. <hi>that the aged men be sober, grave, temperate, sou<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in saith, &amp;c.</hi> If they were not liable to mis<g ref="char:EOLhyphen"/>carry as well as the younger. see <hi>ver.</hi> 6. and indeed the Papal Church especially hath preferred learning and age into the ruling Chair, as well as many others, and yet for all that, hath come ne<g ref="char:EOLhyphen"/>ver the near to truth, Learning and Age if not ruled by grace, hath the more craft to deceive and whether old men are not liable to be proud as well as the young; else what means the Apostle, ex<g ref="char:EOLhyphen"/>horting them to be <hi>sober,</hi> the same as he exhorteth young, <hi>v.</hi> 6.</p>
+            <p>And whether in some case they have not the greater temptations to it then young Christians, as their learning, abilities, long stand<g ref="char:EOLhyphen"/>ing in the Church, &amp;c. who so knows themselves, must know this besides other worldly temptations, that may unfit them to know, and practice what they ought.</p>
+            <p>And whether Mr. <hi>Baxter</hi> from his own words if not condemned, of Religious Pride, in his great design in his book he saith <hi>page</hi> 17. if they are the greate number of the Godly, who differ from you, and you are singular in your conceits, in this case rash confi<g ref="char:EOLhyphen"/>dence of your own opinions is too palpable a s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gn of Religious Pride.</p>
+            <p>Query. Whether the greater number of the Godly in this Nati<g ref="char:EOLhyphen"/>on of all sorts, do not differ from Mr. <hi>Baxter</hi> in his present design of Union, and Church Communion, with all?</p>
+            <p>And whether he hath indeed followed this his own rule, in read<g ref="char:EOLhyphen"/>ing his supposed light, in contradiction to the generation of the godly who are undersufferings for unconformity o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this day? and whether he could have done it without an over conceitedness of his own understanding above the rest of his brethren?</p>
+            <p>Query. Whether the discription Mr <hi>Baxter</hi> hath given of the Universal Church, gathering in all the Christian World (a its call<g ref="char:EOLhyphen"/>ed) from East to West, and from North to South▪ <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>use<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vits,</hi> and <hi>Roman,</hi> too, in some sence, and the necessity <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Com<g ref="char:EOLhyphen"/>munion with them all, as the Catholick Church professing <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ty
+<pb n="4" facs="tcp:171463:5"/> be according to the true rule, according to which all should speak and doe? for clearing of which I,</p>
+            <p>Query 1 Whether any perticular Church can, or lawfully may, be accounted, a perticular Church of Christ, or any part of the Universal, that is not made so by the power, and according to the way, and order of the Lord, head, and law giver, of the Universall Church? and which is by the Preaching of the Gospel and conversion of Souls, both to Christ, and the Church, and none other hath he appointed, or authorised together his Church, but his Ministers and this in term is (I think) by most assenced to even Mr. <hi>Baxter</hi> himself, often affirms that the power of the keyes is in the hands of his Minister, both to let in and out.</p>
+            <p n="2">2 Whether a people can or may religously without any wrong to Christ, be called the Church of Christ that is made so by humane power and law, without any works of grace effected by the doctrine of the Gospel when our <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and law giver hath appointed the Mini<g ref="char:EOLhyphen"/>stry of the Gospel as the only ordinary way for the conversion of Sinners and gatherings of Churches and whether those Nations, and Churches, that are so united may be accounted (according to any new Testament rule) the Churches of Christ? and whether such Churches being so constituted by humane power, and owning such humain power; for head Lord and Law-giver of the Church in all Divine things, can be said to own Jesus Christ for Lord and Law<g ref="char:EOLhyphen"/>giver,</p>
+            <p n="3">3. Whether, what Mr. <hi>Baxter</hi> makes so much of professing to own Christ <hi>Page</hi> 25 that the common professors do profess to stand to their Baptismall covenant, and to all the parts of Christianity and do any ways help the water? when they came not into that profession, by any rule, or law of Christ, neither do their profession answer the rule and law of Christ, being ignorant of it and enimies to it, people may profess <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f visibly profess a lye, profess to know God, and Christ and in work deny him, for they (in some sence) do visibly profess Christ, yet visible deny him, as their Lord and King to be ruled by him, profess to be ruled by the humane power, in religious concern<g ref="char:EOLhyphen"/>ments, relateing alone to Christ.</p>
+            <p n="4">4. Whether a visible profession meerly entered unto, by persons
+<pb n="5" facs="tcp:171463:5"/> in the common National Profession be not taken up upon tradition, and the command of the Magistrate, but the body of the people under gross ignorance and prophaneness, and whether Mr. <hi>Baxter</hi> himself doth not look upon them as a people unconverted to God; and that to call such a nation of people, the true Church and Spouse of Jesus Christ, be not a contradiction to the whole design of the holy Scriptures, which stile the Gospel <hi>Churches</hi> in the E<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of the A<g ref="char:EOLhyphen"/>postles to them, a people <hi>called in Christ Jesus, Saints by calling, sa<gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>fied in Christ Jesus,</hi> such as had <hi>received the spirit,</hi> but the body of this generation cannot bear so much as the <hi>names</hi> of these things, but persecute such as are so; If this were seriously attended to by this person and of many others, that ▪tis as needful to gather Churches, <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of a people of a traditional Magistratical pro<g ref="char:EOLhyphen"/>fession, the spirit whereas i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ignorance prophaneness superstition, enmity to, and persecution of the power of Godliness and the professions of it, that are ready to stone Godly Ministers that are sent to them, (Mr. <hi>Baxtor</hi> and others of his perswasion being judges) whether, I say, there be not as much need of a new calling and gathering of such a people into congregations, as among <hi>Papists</hi> or <hi>Infidels,</hi> the word of the Apostle is clear, 2 <hi>Tim.</hi> 3. 5. Speaking of the profession of these latter days which makes the <hi>times perillous,</hi> as the Apostle speaks; <hi>Having a form of Godliness, but denying the power thereof, from such turn away,</hi> such as are <hi>vulculy, lovers of pleasures more then lovers of God, despisers of those that are good,</hi> the proper characters of Mr. <hi>Baxters</hi> national profession, (in which I appeal to his own consc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence,) now <hi>from such turn away,</hi> if from com<g ref="char:EOLhyphen"/>mon conversation, as some urge, much more in Church-ship and distinguishing ordinances, if purity in the administration of them be any concernment of the honour of Jesus Christ.</p>
+            <p>And whether the mixt prophanation of the holy things of Jesus Christ, hath not been one of the high provocations of the Nations, <hi>&amp;c.</hi> But a pure formal reformation, by answering a late chistical question or two, that subscribing a paper to own such a one as his minister, which is a sl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ght healing of the hurt, and a way of hardning many in their unregenerate state, and whether Jesus Christ will thank such is profess themselves his servants to entititle such an impure abominable Spouse to him, in whom the spirit of whoredoms as found, and is expresly cal'd a <hi>Harlot, Ezekiel</hi> 16. <hi>Hosea.</hi> 1 <hi>Rev.</hi> 17. as <hi>Mr. Baxter</hi> would do of all the profession in the World, And whether it can by any word be justified to endeavour to keep persons in a way of pro<g ref="char:EOLhyphen"/>fession as the Church of Christ, and yet are Hippocrites, must no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> expect to give an account for such a work in the day of accounts? who bring carnal unconverted souls into a visible profession, before and without any work of convertion, and so make and maintain a Church and put them upon the Lord Christ, and say its his Church and deceive and wrong poor souls with
+<pb n="6" facs="tcp:171463:6"/> the name of Christian, without the nature of Christianity and say they can be but Hypocrites I must distinguish between Hypocrites in the true Church, who voluntaryly send themselves, and so deceive themselves and others in their profession, that will be to themselves and such as are forced in, without their own knowledge, and consent which is the case now in question, though after (such a carnal profession as this is being the custom and self union of the coun<g ref="char:EOLhyphen"/>try) they may willingly own it, yet this will not excuse the Authors, and pro<g ref="char:EOLhyphen"/>moters, of such a work in the day <hi>of Christ.</hi>
+            </p>
+            <p n="5">5. <hi>Query</hi> whether the Baptismal covenant so often mentioned by Mr. <hi>Baxter</hi> hath any rooting in the Scripture? or any such thing as a Baptismal covenant exprest, in any such terms in the Scripture? and whether baptism be not held forth as a duty following faith and repentance, by which persons visibly give up them selves to the Lord Jesus, <hi>Mar.</hi> 16. 16. <hi>Gal.</hi> 3. 27.</p>
+            <p>whether infants do or can make any such covenant as Mr. <hi>Baxter</hi> speaks of, or answer the rule, in professing of faith and repentance? and if it be supposed that they may do it by their parents, or others as the use hath been, then where is the rule from Christ for such a practice?</p>
+            <p n="6">6. <hi>Query,</hi> whether infants do or can in any measure answer those things stated by Mr. <hi>Baxter, page.</hi> 103. as necessary to intitle to baptism and Church-Membership? he saith.</p>
+            <p n="1">1. It must be a signification of the mind, by word or writing, or some in<g ref="char:EOLhyphen"/>teligible sign. <hi>Query</hi> whether infants do or can, in any measure answer this?</p>
+            <p n="2">2. It must seem to be understood, for no man consenteth to what he, un<g ref="char:EOLhyphen"/>derstandeth not, then whether infants do or can understand this baptismal covenant? therefore do not consent, and so are made Christians (such as they are) without any consent, and against it too which is contrary to Mr, <hi>Baxters</hi> own exprest terms as well as in the Scriptures.</p>
+            <p n="3">3. It must seem to be serious, for that which is apparantly dissembled is well, and what seriousness is in infants in this matter I leave all to judge, and what is done, or pretended to be done by others for them, is but dissembled and feigned in their stead, its not themselves therefore well in Mr. <hi>Baxter</hi> own judgment.</p>
+            <p n="4">4. It must be a present giving up of our selves to Christ, and not only, a promise, defuturo, that we will here after take him for our Saviour and Lord, whether this be performed by infants, a mean capacity may judge.</p>
+            <p n="5">5. It must seem to be <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and not constrained, for then it is not se<g ref="char:EOLhyphen"/>rious; observe, if this be found in infants, but rather the contrary, not volunta<g ref="char:EOLhyphen"/>ry, but constrained, though much passive, being born to it, yet ordinaryly shew their dislike by their crying being offended of it.</p>
+            <p n="6">6, It must seem to be deliberat, and resolute, and settled, and not only the
+<pb n="7" facs="tcp:171463:6"/> effect of a mutable passion; this goeth to make it a real profession in the common sence of all man kind.</p>
+            <p>These six things Mr. <hi>B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>x<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er</hi> stateth as obsolutely necessary to baptism and visible profession of all Church members he saith, that it must be observed what a profession of Christianity is, which in titleth to baptism, not which fol<g ref="char:EOLhyphen"/>loweth baptism; but which intiteleth to baptism and Church membership and objectively it must be the whole baptismal covenat must be professed, no less is to be taken as a profession of Christianity, and as to the act, it must be first a Signification of the mind &amp;c.</p>
+            <p>And <hi>page.</hi> 110. he saith, indeed God would not have any Man admited into the Church; and to its Communion, in his own way and on his own terms, the way and terms are of Christs appointment that they must profess faith, and repentance is his appointed condition, that the Ministers be the publick Judge of this profession, and accordingly receive them solemnly by baptism and that they must enter under the hands of the keybearers of the Church, all this is Christs institution.</p>
+            <p>
+               <hi>Query.</hi> whether infants be capable of all these things by him so clearly and fully stated, at any one of them?</p>
+            <p n="2">2. If this as Mr, <hi>Baxter</hi> saith, be Christs institution in the entering of persons into his Church, who or what man of conscience, dare to receive any into his Church any other way, then he hath instituted and ordained?</p>
+            <p n="3">3. Whether this principle of Mr. <hi>Baxter</hi> so plainly stated, as that which in<g ref="char:EOLhyphen"/>titleth to baptism, and Church communion, without such a profession, there can be not title to it, have not fully overturned and contradicted all that he hath said about his Catholick Church? for his Catholick Church as such as was and are baptized in infancy, before and without any such profession as is by him minded I dare say that not one in ten thousand, of Mr. <hi>Baxters</hi> visible Church, hath entered by such a profession, therefore in his own judgement, all must-be null, he else where saith in his Book, that all Baptized persons are members of the visible Church, so that its aparant Mr. <hi>Baxter</hi> makes members of his visible Church, contrary to Christs institu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion, and contrary to his own judgement.</p>
+            <p n="4">4. whether Mr. <hi>Baxter</hi> be so well in his wits, as he himself supposeth, as to write at such a rate, against all the visible profession of God<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iness, at this day in the Nation, that is out of the old common▪road, or way, and so clearly correct and answer himself in the whole, as he hath done in his affections for if whac Mr. <hi>Baxter</hi> hath here affected be true, there is no true national; or parochiall, Church in the World, no nor where thc entrance in Infancy, with<g ref="char:EOLhyphen"/>out this profession of faith and repentance.</p>
+            <p n="7">7. Whether if we be fincere in our Souls to God, and true in what we pretend
+<pb n="8" facs="tcp:171463:7"/> to be, to own Jesus for our Lord and his word for our rule, we have any ground to own any other particular, or Catholick Church visible, but such as in the primitive times? and that is a people gathered out of the world by the preaching of the Gospell, to faith, Repentance, Baptism, and communion, in perticular congregations, and all the Churches, where the Universiall Church, and whether th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s be not the undoubted rule of our Lord, unto which we all ought to take heed unto? what ever custome, and traditions of men, have been or are to the contrary? and whatever obsurdi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies may be supposed to follow▪ as the making of the Kingdom of Christ so little, and as good none at all, as to be a King and have no Kingdom or so small that as good as none, and that those that so deals, as to out him of so great a part of his Kingdom, may next turn such Traytors to him as to out him of all; and that i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the way to make the World turn athifts, to hear of a King that hath so small a King<g ref="char:EOLhyphen"/>dom for a King with so small a Kingdom is next to him that hath none <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> thus he talks or to this purpose, and that it doth wrong to the souls of men to keep them from owning him to be King whose Kingdom is so small and from whence I. <hi>Query.</hi> 1. whether it be not dishonourable to Christ, to pre<g ref="char:EOLhyphen"/>tend a Kingdom of Rebells for him, and to inlarge his Kingdom, like the Kingdom of this world? and to put the world upon him, when he hath said <hi>my Kingdom i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not of this world,</hi> to make a Kingdom for Christ far worse (as to him and his government then the Kingdoms of the world are to their earthly Kings? Whether we may rationally imagin that the Lord will accept of such a Kingdom, and own and approve of those that have prepared it, and put it upon him?</p>
+            <p>And whether it doth not more wrong to the s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uls of men?</p>
+            <p n="1">1. To deceive them with the name of Christion, and Church, when there is no such thing and 2. Whether it be not a more likly way, to turn the world into Athism, in respect of Christ when you propound him to be a spiritual holy King, whose Kingdom (according to Mr. <hi>Baxters</hi> word) is filled with filthiness, and abomination, worse then the <hi>Turks</hi> and <hi>Pagans</hi> so that the very name of Christian Religion, is become an abhoring both to <hi>Jews</hi> and <hi>Turks,</hi> when they see and here that that pretended Kingdom, and Catholick Church of Christ, is more wicked and abominable then their's, all Mr. <hi>B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>x<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ers</hi> help for it is that its the Pastors fault, where it is a miss that they should look to it, and its their sin, but the members hath no power (but to submit) unless it be in an <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>orderly way to deal with them &amp;c.</p>
+            <p>Which is indeed the only way in a true Church, but to prescribe this in such a Church, where neither pastor nor people have power, if they had will, and the persons to be dealt with would quickly swallow up those that would be so
+<pb n="9" facs="tcp:171463:7"/> strict as to set about such a work, and indeed that is not the way, to take that f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r a Church of Christ which is none of his, and to talk of sweeping such a Church till it comes to be clean, but rather to begin a new and to seperate the pretious from the vile, they that so do in the humble, obedient, and sincere spirit of the Gospel; shall be as Gods Mouth to his People, <hi>Jer.</hi> 15. 10. and the sincere in heart will be after them. Ps. 94. 15. I believe Mr. <hi>Baxter</hi> is in the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ag end of the day, and have undertaken a work that will be too hard for him.</p>
+            <p n="8">8. <hi>Qu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ry.</hi> Whether Mr. <hi>Baxter</hi> was well wrought (as in his <hi>5<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h</hi> direction) in so exactly studying, and compacting, the sins and miscarriages of the saints, and Churches of old, thereby to lay a foundation and to Justifie so goodly a building, as he is pleading for? and whether such a thing as this, be not a like<g ref="char:EOLhyphen"/>lier way to make his Church turn absolute athiests, finding such <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>utoloque of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> best saints, in their sins, made ready to their hands in his book? whether they convince any serious sou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s to so universall a commumon?</p>
+            <p>
+               <hi>Query.</hi> 9. Whether it be true or not, that the Nations or the profession thereof be a profession of saint ship? as he insinuateth <hi>Page</hi> 54. or whether Saint-ship and holyness two, be not an adherency to them? let the wise in heart judge.</p>
+            <p n="10">10 <hi>Query.</hi> whether all, or any of the old Testament Examples, of the saints and Churches sins and failings, do reach the case in hand? the New Testament Church being another constitution neither Nationall, provintial, or paroachi<g ref="char:EOLhyphen"/>all, but in every Nation <hi>he that feareth God and worketh righteousness, shall be accepte<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h</hi> Act. 10 35.</p>
+            <p>A people gathered out of every Nation, both <hi>Jew,</hi> and Gentill and as for the examples of the evils, and sins of the Churches in the New Testament, it o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> imports; that true Churches rightly constituted, may have evil things, and persons, in and amongst them for which they may not be immediately se<g ref="char:EOLhyphen"/>perated from, till all due means have been used for a reformation, but in no case do this prove the prophane world (because brought irregulerly under the name of Christian and Church) to be the Church of Christ.</p>
+            <p n="11">11. <hi>Query.</hi> Whether the di<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tinction Mr. <hi>Baxter</hi> maketh and advises others to take heed unto, of the visible and invisible Church, will according to rule run at such a random as he pretends?</p>
+            <p>He saith. <hi>page.</hi> 33. <hi>direct.</hi> 5. understand rightly, the true difference between the mistical, and visible Church, and the qualifications of their members and do not confound them as if it were the same persons only that must be mem<g ref="char:EOLhyphen"/>bers of both, that the misticall Church, indeed hath none but true saints but the visible Church containeth a multitude of Hypocri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s <hi>&amp;c.</hi>
+            </p>
+            <p n="1">1 <hi>Query.</hi> 1. Whether the visible Church should not be all sincere and rege<g ref="char:EOLhyphen"/>nerate,
+<pb n="10" facs="tcp:171463:8"/> as far as those conserved in the matter, can by the rule of charity judge at their reception: and because of our weakness, and failableness, in the matter, who are to judge by the outward appearance, of the truth of their faith and repentance, that freely offer themselves to obey the Lord, if Hypocrits come in, the Lord hath ordained a way when discovered to expulse them out again, without repentance which clearly argues that God would have none but the regenerate in the visible Church, Hypocrites are not there approvedly, by any rule from Jesus Christ but they must give an account, and be judged for it and that even here by the Church if discovered, if not, yet here after at the day of judgement, 1 <hi>Ti.</hi> 5. 24, <hi>Mat.</hi> 22 12. 13. So that the visible Church should be the regenerate, and are so to be accounted, till they discover themselves to be other wise and although the Lord knows who are his, and who are Hypo<g ref="char:EOLhyphen"/>crits <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e knew <hi>Judas</hi> was a Hypocrit that argues not that God aproves it, and alowes it <hi>Judas</hi> came to a dreadfull end, and many are the woes denounced by our Lord against Hypocrits. <hi>Mat.</hi> 23. that the visible Churches should be of the regenerate, and were so reputed is evident by the manner of the Apostles writeing to them, as if they were all regenerate, so 1 <hi>Cor.</hi> 1. 2. 2 <hi>Cor.</hi> 1. 1. such as were to visible appearance <hi>santified in Christ Jesus called to be Saints:</hi> Phil. 1. 6. 7 <hi>being confident that he that hath begun the wo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k will perform it &amp;c.</hi> even as it is <hi>meet for me to think thus of you all.</hi> 1 <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h. 1. 1. 4. <hi>knowing brethren your election of God.</hi> 1 Pet. 1. 1. 2, with multitudes of the like, where the visible Church are accounted to be such as are of the regenerate, and would have us so to under<g ref="char:EOLhyphen"/>stand, and hope of every one, and though there have been, and probably are and may be Hypocrits in the visible Church yet it is the sincere that are indeed the Church of whom Christ is the head <hi>Eph.</hi> 5. 25. 26. 27. and of no other Church, would I be a member but of the Church of the regenerate <hi>i. e.</hi> pro<g ref="char:EOLhyphen"/>fessi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to be such to be such and of whom it is meet I should so think.</p>
+            <p>
+               <hi>Query.</hi> Whether the Churches strictly gathered, according to the rule of the Lord and Law giver, hath not had, and may have, some Hypocrites, and bad members, as was in the primitive times, and still are found by sad experience, though the poor blind, and prophane World, be not heaped into this num<g ref="char:EOLhyphen"/>ber, and because Hypocrites have been and may be in he true Church, whe<g ref="char:EOLhyphen"/>ther those men do good service, either to God or Man, that make up a Church of Hypocrites; or multitudes of Hypocrites.</p>
+            <p n="12">12. <hi>Query.</hi> Whether Mr. <hi>Baxter,</hi> do not prosecute his matter suitably? a Ministry; like his Church, for now indeed I think he must have such, if any at all. <hi>Direct.</hi> 17. <hi>page</hi> 113. 114. He saith that an ungodly Man may be a Minister and that all his Ministrations are <hi>va<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>id,</hi> as to the Church, and that the Church, i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not to take them for no Ministers that want Grace totally, I suppose Mr. <hi>Baxter</hi> intends; by ungodly, and wanting grace totally, that it is to visible ap<g ref="char:EOLhyphen"/>pearance
+<pb n="11" facs="tcp:171463:8"/> to the Church, for otherwise it suits not the case in hand, <hi>i. e.</hi> Visi<g ref="char:EOLhyphen"/>ble Communion, nor visible Church, nor admi<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of any doubt, if the person <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> gratious in appearance to the Church, and ungratious before the Lord, we a<g ref="char:EOLhyphen"/>gree that such a persons administrations are <hi>val<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d</hi> in the Church, for he is to be counted a godly Man and Minister▪ while he so walketh, but to say that an ungodly man, totally void of grace, is a Minister, and so to be owned by the Church, is so absur'd an abomination, as that such a person, a known wicked person, must be rejected from membership, 1 <hi>Cor.</hi> 5. 13. and a person void of grace, such a one <hi>as loveth not the Lord Jesus, must be accursed from the Church,</hi> 1 <hi>Cor.</hi> 16 22. But these must (or at least may) be his Ministers, in his Church, he saith that no people should preser such an ungodly Minister before a better but they should submit to such rather then to have none.</p>
+            <p>By which it most fully appears, that they are visibly ungodly and graceless Ministers that he intends, so the blind lead the blind, both are like to fall into the ditch. <hi>Query.</hi> Whence is it that grace should not be a qualification of a Minister as well as of a member, but with Mr. <hi>Baxter</hi> it seems to be no part of the quallification of his visible Church; absolutely necessary either for Member or Minister a hopeful Church is this like to be.</p>
+            <p n="13">13. <hi>Query.</hi> Whether <hi>Mr. Baxters</hi> folly be not made manifest to all men that have eyes to see, to make such a noise and stir in the world of the greatness of his Love to, and zeal for the Catholick Church, when all the while he falls foul with the Church and sincere Professors of the Lord, charging them with p<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ide and sinfulness in separating from such a Church as is by him p<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaded for, that from head to tail abhor godliness, and godly persons, and love wickedness, a-sink of sin and abomination.</p>
+            <p n="14">14. <hi>Query.</hi> Whether the visible Catholick Church in the profession put upon it (pleaded for by <hi>Mr. Baxter</hi> can or may by any religious, and rational Soul unbiased, be accounted the visible Catholick Church of Christ, approved, and to be owned by the Saints, when it is on all hands, judged, that this Church in the generallity thereof is more horidly and barbarousl<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wicked, then the <hi>Turks</hi> and <hi>Indians,</hi> this Christian World, called the Church to be an abhorrency for their wickedness to the <hi>Pagan</hi> world, O dreadful Church for any g<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>atious Soul to plead for.</p>
+            <p n="15">15. <hi>Query.</hi> Whether <hi>Mr. Baxter,</hi> and <hi>Mr. Toms</hi> two great Antagonists in former days, but now reconciled in this so sad a work (as <hi>Mr. Baxter</hi> con<g ref="char:EOLhyphen"/>fesseth, and commends <hi>Mr. Toms</hi> for this learned work) two profest pastors, unto two perticular congregations, have not brought their congregations or themselves to a bad pass; that when the wind turned▪ to leave them to shift for themselves, and to make it their work to plead for baal, that so if they c<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uld turn not only their own congregations, but all the separated people in the Nation back again to <hi>Babylon.</hi>
+            </p>
+            <p n="16">
+               <pb n="12" facs="tcp:171463:9"/> 16. <hi>Query.</hi> VVhether we have not grounds to suppose that <hi>Mr▪ Baxter</hi> is preparing the way back again to <hi>Rome,</hi> and whether he hath not so far digged it up, all things well considered as that there is scarce a stone in the way to hinder, more then was in his return to the Church by him distinct<g ref="char:EOLhyphen"/>ly pleaded.</p>
+            <p>For he saith in his Epistle or Preface, that were it not for two things he should in Charity fear to suspect them of Antichristianity, and the two things are, 1. If they were not the inqui<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s for the division of the Christian wor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d by a false center, and by impossible terms of Unity, and by the engine of te<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<g ref="char:EOLhyphen"/>ing, dividing impositions.</p>
+            <p n="2">2. If among them were not found the blood of the Saints and Martyrs of Jesus, &amp;c.</p>
+            <p>Now if these be the things that prevents and nothing else, as by his word in that place seems clear that were it not for these two things he should fear so much) a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to suspect them of Antychristianity, and if not so much as suspected of that, no ground to withdraw Communion.</p>
+            <p>Now if both these blocks (<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> imposing impossible terms of unity with good contience, so ter<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing and dividing, and persecution on th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se that cannot sub<g ref="char:EOLhyphen"/>scribe to such impositions) were in his way so far as he is <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>turned. and he can leap over them with so much case, and is offended with his brethren that cannot leap after him.</p>
+            <p>I know not why he may not if occasion be, leap next leap into <hi>Rome.</hi> and if all the rest of the fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thyness of the Whore of <hi>Babilon,</hi> can be swallowed, and pas<g ref="char:EOLhyphen"/>sed ever, why not this also?</p>
+            <p n="17">17 <hi>Query</hi> Whether it be not the most clear and safe distinction of the uni<g ref="char:EOLhyphen"/>versall vissible Church of Christ, to be all the Churches in the world, united by the word and spir<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it, on the visible profession of regenetation, repentance, saith and obedience to their head and Lord? in which Churches Probab<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y may be many hypoerites and in which Church, probably may be severall distinct apprehensions, in circomstantiall things, which ought notwithstanding to own each other in love, and not to UnChurch each other though as to personall fellowship upon an instituted Church account, each to exercise their liberty and all regenerated believers in every place to be the misticall Church of Christ on earth, whether in <hi>England, Rome,</hi> or else where.</p>
+            <p n="18">18 <hi>Query.</hi> Whether we have no grounds to suspect that in as much as I hope Mr. <hi>Baxter</hi> is real and stretched out large in his heart in love to the Church ye evil love hath gotten an advantage over him as sometime over <hi>Peter,</hi> from his love to his Mother (to carry his love the wrong way, <hi>i. e.</hi> to a mistaken Church so to make him instrumentall in this large spirrit of love to do his work, and build up his Church, in stead of the Church of Christ, and to in<g ref="char:EOLhyphen"/>gage
+<pb n="13" facs="tcp:171463:9"/> all the ungodly to f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll in with him, in that bui<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ding.</p>
+            <p>And whether it wou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d not be more christian like to love in Judgement, and according to rule, <hi>i. e.</hi> To love churches, and be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ievers, as such, the best christian<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (if we know them) as such, <hi>&amp;c.</hi> And to love men a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> men, and per<g ref="char:EOLhyphen"/>secuters as such, and <hi>Babylon</hi> as such, and not jumble <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p all into one visible Catholick Church, and so make the Church a cage of every unclean and hateful bird, let that be <hi>Babylons</hi> work, and not of the members of the Church of Christ it is to be feared that there are and will be too many foolish Virgins in this, Church of Christ, but let us not make it up of the carnal and prophane rough, far be it from any that love the Lord Jesus to do such a work.</p>
+            <p>So that I suppose Mr. <hi>Baxter</hi> hath grounds sufficient to suspect that <hi>Satan</hi> hath beguiled him and been too hard for him in the matter in hand? for though I hope for all this that he hath done, he is godly in the main, yet may he suppose himself to be lyable to miscarry and that by the deceit of the subtile adversary us others of the Lords servants have before him, and as <hi>Peter</hi> to whom the Lord said, <hi>get thee behind me Satan, &amp;c.</hi> That in such an Ang<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l like way, in a way of love, Universal Love, thereby to effect that which I believe all his roaring persecutions will not accomplish, if strength of grace support, no nor this lovely song shall inchaunt the hearts of the seri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us and understanding, to dance after the Devils pipe, O that ever the love of Christ and the love of the Church, should be improved to so wrong an end. And that which seems most strange is that notwithstanding he generally acknowledgeth the necessity of the new birth, and that not only outward moral<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y and civily, but all the profession in the world without the truth of Grace in the heart leaves at the best but Hypocrices. That he should have such a zeal, to keep the prophane Hypocritical world, under the name and notion of the church of Christ, to their own eternal ruine.</p>
+            <p>
+               <hi>Query.</hi> 19. whether Mr. <hi>Baxter</hi> hath not read in Scripture (as he seemeth to imply in his book) of a seperation when not from heathens only? but from pretended Christians and Churches in the old Testament when the true Church had so far corrup<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed it self; he as to be put a way <hi>Hose.</hi> 2. 2. and <hi>Jer.</hi> 15. 19. the Prophet had seperated and must not return, but his work was to take out the pretious from the vile, and in the New Testament. <hi>Eph.</hi> 5. 11. 12. <hi>have no <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ellowship with the unf<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ful work<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of da<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kness, but rep<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ove them rather.</hi> i. <hi>e.</hi> workers, as well as works implyed in the word reprove them what the work<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. or the workers <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, <hi>be not yee therefore <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ertakers with them</hi> fellowship ord<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>narily relates to fellowship in re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>igious things, 2 li. 3. 5. <hi>From such turn away,</hi> or be ye seperate and ver. 2. 9. sai<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h the Lord Christ, <hi>I know the Blasph<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>my of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>se that say they are Jews and are not, but are th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Synagogues of Satan,</hi> that is such as say they are Christians Churches of Christ and are not,
+<pb n="14" facs="tcp:171463:10"/> they do lye and are Blasphemers of God and his Church, there is a double Blasphemy ordinary in the false Church.</p>
+            <p n="1">1. They be lye the Lord, in saying they are his Church, when they are not, what greater blasphemy, then for a notorious strumpet, to say she i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the wife of an honest man, when she hath no relation to him, thereby to cover her lewdness, and secondly blasphemy the true Church, the true <hi>Jews,</hi> with lyes, and falshoods, and persecutions <hi>v.</hi> 10. and I take this as one certain rule, or discovery of a false Church, which is made up by humane power persecuting all that diff<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r from them▪</p>
+            <p n="20">20. <hi>Query.</hi> Whether Mr. <hi>Baxter</hi> hath not cause to take a review of his work again, and lay aside all self conceit on the one hand, and prejudice on the other hand, not making his own wisdom, wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l, or humane parts, his rule or guide in the matter, but the Scriptures of truth▪ impartially understood and applyed, and whether if he do so in good earnest, he may not yet come to see, that he hath done work much of the same nature with those the Lord complains of <hi>Ezek</hi> 13. 22. and may repent thereof in time:</p>
+            <p>I shall a little turn aside to Mr. <hi>Baxters</hi> 10. questions proposed, <hi>page</hi> 265.</p>
+            <p>
+               <hi>Query.</hi> 1. Do you beleive <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat all baptized, professed Christians (not denying any essential part of Christianity) are Christs Universall Church?</p>
+            <p>
+               <hi>Ans.</hi> I do believe, that all baptized, professed christians (that were baptized according to the rule and law of Christ, with all that sincerity profess Christ according to the light, they have attained not denying any assentiall part of Christianity are Christs Universal, visible, Church.</p>
+            <p>
+               <hi>Query.</hi> 2. Do you not believe that this Church is only one and that every particular Church and every Christian is a part thereof?</p>
+            <p>
+               <hi>Ans.</hi> I believe, that unity in the Church of Christ, is desirable, and that there are not two Universal, visible, Churches, and that this Universal, visible, Church, is not limited within the circumferance of any one sect, or way, or of any one Nation, but includes all that profess Godliness in Christ Jesus, and that call on his name in truth, in every place 1. <hi>Cor.</hi> 1. 2. yet I believe that this Universal, visible, Church (by reason of ignorant, and other accasions) are in various devided apprehensions, about the matters and manners of worship though a greeing in faith, by reason of which, they cannot as yet, see the way clear for communion with each other, in all the ordinances of Christ, as exer<g ref="char:EOLhyphen"/>cised in a rightly constituted Church.</p>
+            <p>
+               <hi>Query.</hi> 3. Do you not believe that it is Un<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in any case whatsoever, to se<g ref="char:EOLhyphen"/>perate from it? and that to seperate from the Universal Church, it visible to seperate from Christ?</p>
+            <p>
+               <hi>Ans.</hi> I do believe, that to seperate from the Universal visible Church of Christ, must flow from ignorance, or pride, or both; and is dangerous, and
+<pb n="15" facs="tcp:171463:10"/> that who so doth it, do vis<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bly seperate from Christ but to seperate from the Synagogues of Satan, and those that say they are a Church, and part of the Uni<g ref="char:EOLhyphen"/>versal Church when they are not, but do lye, is no sin against the Lord, but the duty of every sincere Christian.</p>
+            <p>
+               <hi>Query.</hi> 4. Do you not believe, that to give a bill of divorse, to the Universal Church, or to many hun<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red parts of it, or to any one part of it, and to declare that they are none of the Church of Christ, is not great arrogancy, and injury to men and to Christ himself?</p>
+            <p>
+               <hi>Ans.</hi> I do so believe, and I do likewise believe, that it is as high a peece of arogancy, to thrust a people upon the Lord as his Church when they are not, but the Synagogue of Satan, and as great a wrong to Christ, and a greater wrong to men then the other, for it deludes the poor blind Christian (yet an<g ref="char:EOLhyphen"/>tichristian) World▪ with the name, without the nature, of Christiani<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y; to their eternal ruine were it not for that probably, and in a way of reason, they might be more likely to be converted to the Lord in truth, who must be accountable to the Lord for it in the end, he knoweth, see <hi>Jer.</hi> 6. 14. 15.</p>
+            <p>5. <hi>Query.</hi> dare you say before God, let me have no part in any of the prayers, of all th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se Churches on earth, that use liturgie as culpable as ours? because, I will have no Communion with them, d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e you set so light by your part in their prayers.</p>
+            <p>
+               <hi>Ans.</hi> I think this is a useless and needless question they are strangers to me, I am not ab<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to fix where this Church is in all its parts. But how ever, I re<g ref="char:EOLhyphen"/>ject not the prayers of any true Christians nor of any part of the Universal Church of Christ, as for the litergies you talk of, I meddle not with, the New Testament Church in the primative institution were strangers to it, and so am I. that because our Lord made aforme of prayer, as the doctrine and rule for his diciples, therefore men may make forms one for another, though they be not Christ, is yet a riddle to me, when the scripture saith <hi>we know not what to pray for as we ought, but the sp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rit <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elpe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h our infirmities</hi> &amp;c. Rom 8. 26. not only we know not how, but what to pray for it helpeth not only in the manner, with sights and groans <hi>&amp;c.</hi> but in the matter, for we know not what to pray for <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Qu.</hi> Whether these that make prayers for others not put themselves in the room of the spirit▪ and so become their Idol? and whether it would not be much likelier to do service to the s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uls of all, in a state of nature, to let them to know that all though on some account its the the duty of all to pray, and to worship God, yet that none can do it acceptably on a new covenant account but believers! and that true believers have the spirit of Christ. <hi>if any man have not the spirit of Christ he is none of his.</hi> Rom. 8. 9. and that the spirit it of Christ is a spiri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of prayer where ever i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is that we might teach people to be Christians
+<pb n="16" facs="tcp:171463:11"/> first, and then to pray in this manner, by the spirit of Christ whether this is not more like the Gospell, the which is the ministration of the spirit, then to make liturgies, and forms of prayer to keep people in ignorance, and blindness, and so to be without God and Christ in the world, and strangers to the spirit of prayer, but I pass this, I know Mr. <hi>Baxter</hi> is large about liter<g ref="char:EOLhyphen"/>gies and forms of prayers, I am perswaded be pleads not for himself in the matter, but his is not that I intended therefore to return, I have read; and be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ieve the truth there<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f that God hath his people in <hi>Babilon▪</hi> and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f so there must be a minestry, or means, to beget them to the faith, for God hath not limited himself on that acco<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, but worketh in what wa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he pleaseth, but stil by h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s word, that though I need not the prayers of any of the assemblies that say they are <hi>Jews &amp;c.</hi> are not yet if there be any of the true seed among them I reject nei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her them n<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> their prayers.</p>
+            <p>6. <hi>Query.</hi> If you traviled in a bass<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, Armen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ia, greece or any Chri<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ian Countrey, where their worship is <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, or s<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>stantially w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cked no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they force the worshipers to any fals<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Oathes, subsc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ipt<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ons, or other actuall sin, would you refuse all c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mmunion with them, and all publi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k worship of God? or w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uld you not rather Joyn with them, then with no Church a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p>
+               <hi>Ans.</hi> that is a question hard for me to answer, till I have ocasion to travill into those parts of the world, that I may know their manners, but veril, I think, if what you say be true <hi>page</hi> 324. those Eastern parts of the world, do so much exceed the western parts in ignorance, and wickednes<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I should not touch with them in their worships. I think I cou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d (and with as much ground) Joyn in worship with the <hi>Turks</hi> as with the prophane and ungodly generation of pretended and professed Christains.</p>
+            <p>7. <hi>Query.</hi> when you rem<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mber on the Lords days, that now all the Christian world are congregated, and are call<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng upon God, and prasing him in the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ame of one Christ, and in the profession of one faith, dare you think of being a body seperate from them all, and can you think that Christ disowneth them all save you?</p>
+            <p>
+               <hi>Ans.</hi> no such thoughts enter into me, I believe <hi>that in every nation he that f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>areth God, and worke<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h righteousness i<gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>,</hi> yet I do believe, that in many nations, are horrid abominations pretended to be offered to God in the name of Christ, that are not accepted, Pro. 28. 9. Es. 50. 16. 17.</p>
+            <p>8. <hi>Query.</hi> can you think it agreeable to the gratious nature, and design, and office, of Jesus Christ, to cast of: and condemn so many hundred parts <hi>of</hi> the Church Univer<g ref="char:EOLhyphen"/>sall, and accept but of one part only which you joyn with? judge by his actions and expressions in scripture.</p>
+            <p>
+               <hi>Ans.</hi> I never yet confined the Church of Christ into so narrow a compass as to those of mine own opinion and practice, though I judge it to be the du<g ref="char:EOLhyphen"/>ty of all Christians to worship, and serve the Lord in his Church, according to
+<pb n="17" facs="tcp:171463:11"/> his own appointments, yet I believe that those that are built, and do build o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the right founda<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion, are safe, though you may (and I fear most do) build much and many thing<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that must be burnt and they suffer loss.</p>
+            <p>9. <hi>Query.</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f there were but ten persons of your mind in all the w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rld wou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d you believe that God would save none but those ten? or accept the worship of no more? or that it wa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> lawfull to haue Communion with none but those ten? <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> how can you think it in a case so near to it.</p>
+            <p>
+               <hi>Ans.</hi> i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> there were but ten persons in the world of my mind, I am not <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ound to believe that God would save all of them, or any of them, for be<g ref="char:EOLhyphen"/>ing of my mind, un<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ess they were si<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cerely godly according to the Gospe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l, nei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her do I be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ieve but that he hath done, and will save many that are not of my mind, if they be sincerely godly according to the Gospell, and that <hi>in every nation he that f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>areth God, and worketh righteo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sness shall be accep<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed,</hi> though they be <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot in all things of my mind, and that God <hi>accepte<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h of <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, according to what they have, and not according to what they have not,</hi> 2 Cor. 8. 12. as to matter of fellowship is included in my answere to the next <hi>Query.</hi>
+            </p>
+            <p>10. <hi>Query.</hi> can you prove that Christ doth s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pera<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e from all the Christian<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the world, that you seperate from? or that they hav<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> no visible Communion with him? or that he taketh them for no Chu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>che<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>? and disowneth the administrations of all the ministers in the world which you d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sown? or that it i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> safe to sepera<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e where Christ doth not seperat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>? and to begin from his house while he there abideth? and to condemn those whom he condemneth no? nor commandeth you to fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sake or to condemn.</p>
+            <p>
+               <hi>Ans.</hi> the substance of this question hath been often repeated in the other questions espeacially in the 3. and 4. yet this I shall further say, 1. That I se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erate from no Christian in the world as such, nor from any Church of Christ as such, but if I seperate from any that are Christians indeed, it is not as they are Christians but because they hold their Communion in a fa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se stated Church, both for manner and matter, and its their sin that they do not seper<g ref="char:EOLhyphen"/>ate with me, 2. <hi>Tim.</hi> 3. 5. <hi>Rev</hi> 18. 4. whether Christ doth seperate from <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>? or they have no Communion with him <hi>&amp;c.</hi> is not materiall to me, what the Lord may do for his people in their darkness and ignorance is unknown to me, but this I understand, that though God hath set us our duty, and we are bound to the performance of it when known to us, yet himself is at libe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty to work how and where he pleaseth, he hath a people in <hi>Babilon,</hi> and doubtless he had a way to beget them there, and is with them, and gives them fellowship, and accepts their sincerity in service, and yet no thank to the false worships, or worshipers, nor no ru<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e for me to abide there, because some godly are there, but its my duty to seperate being instructed of the Lord therein, the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eby to call them to their duty likewise, the people of God had gotten their Seised Houses in <hi>Babilon</hi> and were loath to come forth, to go to <hi>S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on,</hi> about the work
+<pb n="18" facs="tcp:171463:12"/> of the world, they had rather bide in <hi>Babilon</hi> till, and some went out before others, and some must be called hard upon, before they would move, <hi>Hag.</hi> 1 24. and truly God seems to speak much in the matter at present, the begin<g ref="char:EOLhyphen"/>ings of seperation was contemptable, even to many, if not most of the godly, they had gotten their Seiled Houses in <hi>Babylon,</hi> loath to come forth and there<g ref="char:EOLhyphen"/>fore strongly pleaded for her, but now as <hi>Israell</hi> out of <hi>Egypt</hi> they are thrust out all at once; and the true Church will I believe appear, more and more, looking <hi>forth as the morning, Cant.</hi> 6. 10. very terible to the false Church, and though she hath <hi>lie<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> am<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng the pots,</hi> yet shall she be <hi>as the wings of a dove, cover<g ref="char:EOLhyphen"/>ed wi<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h Silver, and her feathers of yellow Gold. <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s.</hi> 68. 13. <hi>Mr. Baxter</hi> would keep her in the darkness, in <hi>Babilon,</hi> among the pots still, but God hath another work to effect in the world.</p>
+            <p>And as for seperating from Churches, and Ministers, that are such, and Christs disowning <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of them, we are to distinguish in the manner of the Lords owning, and disowning of Churches, 1. in their turning aside from the right rule, to their own invention<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, in any administrations, and ordinances in the Church, in that the Lord disowns them, and by his word reproves them and in that if the Lord hath taught me, I must reprove them, and if they repent not, disown them, so far as the Lord disowns them. i. <hi>e.</hi> in their wrong admin<g ref="char:EOLhyphen"/>istrations, <hi>&amp;c.</hi> I must have fellowship with them in their sin, yet if it appear that god<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iness and holyness is the design of such a people and that their mis<g ref="char:EOLhyphen"/>carriage lyeth in the understanding and judgement, want of light, rather then in the will and affections, if I seperate, I do not seperate from them as no Church of Christ, or no part of his Universal Church, but as a disor<g ref="char:EOLhyphen"/>derly Church, with whom I cannot have personall locall commu<g ref="char:EOLhyphen"/>nion without guile, and if this order should not be kept up a<g ref="char:EOLhyphen"/>mong the Churches, <hi>i. e.</hi> to with draw, or seperate from sinning or erring Church, there would be no way left to de<gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> a sinning Church, in case of obstinacy, or to keep the whole from the de<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ments that some might fall into, and so the Churches being not under the care and report of each o<g ref="char:EOLhyphen"/>ther, would be in worse condition then the members of the par<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>icular Churches, who are under the care of the Church, so that I seperate from them as di<g ref="char:EOLhyphen"/>s<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rderly, waiting for a reformation, neither do I judge, that God may, or must leave them, in all their Ministerations that are right, till they grow wil<g ref="char:EOLhyphen"/>full in that which is wro<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>.</p>
+            <p>And to what Mr. <hi>Baxter</hi> saith further <hi>page</hi> 267. 268. in answer to an object<g ref="char:EOLhyphen"/>tion, that the Church of Christ is a little flock, and not to be estimated by number, <hi>&amp;c.</hi> though he generally wrong and (I suppose) speaketh falsely of the seperated people, as if they absolutely seperated from all Churches and Saints, unless such as are of their own way, I know none that hold to the head
+<pb n="19" facs="tcp:171463:12"/> Christ that doth so, and in this mistake he hath spent much of his time in his book, to discover, and to reprove that which is not, but he saith further, that those who believe the Church to be so little, may come to believe the Gospell to be but a fable, and that for his part, if he believed that the Church of Christ were no more then all the seperates on earth, it would make the work of faith more dificult, for as he is no King, that hath no Kingdom, so <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e is ne<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t to no King, whose Kingdom is next to none, and if you take from him a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l save too or three cotages I mean the seperated Churches only, it is but a little adi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion to your treason, to ta<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e the rest, and to crucifie Christ afresh, and to write over him in dirision, H<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> title of a King <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> to this I say as before, he supposeth that which is not, sets up a shaddow of his own invention, thereby as he thinks, to strik through the se<g ref="char:EOLhyphen"/>perated people.</p>
+            <p>But do he in good earnest strengthen his faith in Christ so much in the mul<g ref="char:EOLhyphen"/>titude of the professors in the christian world? and do he believe that the hon<g ref="char:EOLhyphen"/>our of Christs Kingdom do so much consist in mu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>titude? is it more likely to destroy or hinder faith, when men shall hear of a holy King, that loveth, and commandeth holiness a King whose name and same doth ring in the world for holiness, and his Church and Kingdom for a holy people, when they are made up of the vilest, and his Kingdom to be worse and more unholy then the King<g ref="char:EOLhyphen"/>dom of Mahomet, is not this the way to make the blind world suspect that there is no truth in all the report of the Gospell, about this holy King? and was it multitude that prevealed to draw people to the credence of the Gospell in the primitive times? when a few mean persons only owned and cleaved to him, surely Mr. <hi>Bax<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er</hi> cannot be so ignorant and unbelieving, as that the profesion of a multitude of prophane and ungodly persons, should strengthen his faith in the Gospell and Kingdom of Christ neither can the fewness of the true subj<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cts of Christ be so dishonourable unto him as is imagined, his fl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ck being a little flock.</p>
+            <p>
+               <hi>Query.</hi> Which in a way of reason, as well as religion, is likely to be most honourable to Christ our holy King, to have a few holy honourable subjects, that with purpose of heart cleave to him, obey and serve him, or a Mu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ude of rude, prophene, ungodly, and dishonourable subjects such as are a scandall to earthly Kings, what do Mr. <hi>Baxter</hi> in this, but dishonourably present Christ as the b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sest of Governers by his subjects, and see in the way he thinks to hon<g ref="char:EOLhyphen"/>our him, cast contempt upon him. Ps. 12. 8. <hi>The wicked walk on every side, when vilest men are exalted,</hi> therefore surely 'tis no treason against our Lord and King, to desire and indeavour to have his Kingdom holy, though but a little one, a little flock, <hi>yet a little one shall become a thousand, and a small one a strong the Nation, the Lord will hasten it in his time <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>.</hi> 22. But let us not hasten it faster,
+<pb n="20" facs="tcp:171463:13"/> and before his time, least we cast reproach upon him, i<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>stead of honour.</p>
+            <p>But let us consider yet again how large this Kingdom of Mr. <hi>Baxters</hi> is, and how much it may <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad to his faith, and to the honour of Christ, for to he<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p in the matter, he is now gotten over the two blocks in the way before mentioned, and hath gotten the whole <hi>Roman</hi> fraternity to make up the number, he saith <hi>Pag.</hi> 81. that we seperate not from <hi>Rome,</hi> as the U<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iversal Church (for that it was no<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) nor as part of the Universal Church for so we hold Communion with those that are Chri<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ians still, nor as a true worsh<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ping congregation for they consist of many thou<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>and congregations, which we had never locall communion with, and as true worshiping congregations in specie, we still hold communi<g ref="char:EOLhyphen"/>on with them in mind, so far as they are such indeed but in two sences we seperate from them, 1. as a papal Catholick Church, because in that sence they are no Church of Christ but a pack of Rebells.</p>
+            <p n="2">2. As a particular congregation in specie, which have <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>xed Gods worship with false Doctrine, and Ido<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>atrous bread worship, and other unlawfull things <hi>&amp;c.</hi> and thus we disown them only as neighbour Churches, that never were their lawful subjects, but bear our Testimony against their sin, and our forefathers, who were members of their Churches departed to save themselves, from their iniquities, and because they were refused by themselves, unless they would lye and for swear, and be ido<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ators, and communicate with them in their sin, nor would they then, nor will they to this day, admit any into their particular Churches, who will not first come into their pretended universal Church, which i<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> no Church, and worse then none, if this answer seem not plain and full to you, it is because you understand not christian sence and reason. <hi>Page</hi> 83. 84. here note Mr. <hi>Baxter</hi> seperates from <hi>Rome</hi> only in too sences. 1. as p<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pal and U<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iversall 2. as <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>xing Gods worship with false doctrine and idolatry <hi>&amp;c.</hi> as particular c<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngregations and yet ownes them for true worshiping cong<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<g ref="char:EOLhyphen"/>gations in specie, and so we still hold communion with them in mind, so that on this account <hi>v<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>z</hi> as particular congregation, even, in the many thousands of them, even all the papall rout Mr. <hi>Baxter</hi> ownes in specie, to be true worsh<g ref="char:EOLhyphen"/>ing congregations and to have communion with them in mind and if he hath communion with them in mind, being absent from them, why he should not have fellowship with them personally, and locally, if occasion serve, and they would admit it, according to his principle, I know not, now let the judicious jud<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, how fare Mr. <hi>Baxter</hi> is from <hi>Rome</hi> and what a holy Kingdom he hath for the Lord, I suppose there be many of the Nationall, Parochiall, Ministers at this day, of another mind.</p>
+            <p>But if Mr. <hi>Baxter</hi> do indeed seperate from the particular Romish congre<g ref="char:EOLhyphen"/>gations for false doctrine and Idolatry <hi>&amp;c</hi> though in his esteem true worship<g ref="char:EOLhyphen"/>ing congregations why may not we wi<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hout offence, seperate from other par<g ref="char:EOLhyphen"/>ticular
+<pb n="21" facs="tcp:171463:13"/> Congregation, for the same or the like scandals where is an imposibili<g ref="char:EOLhyphen"/>ty of Communion on the same terms as minded by him in the substance <hi>i. e.</hi> without contracting guilt of sin upon our selves.</p>
+            <p>But let us a little consider his Christian sences and reason, for my part I must confess my ignorance; I am a stranger to it, for the Church of <hi>Rome</hi> in its com<g ref="char:EOLhyphen"/>paction to the <hi>Pope</hi> as head, and as Universall to be a pack of Rebels no Church and was then none, the plague of the Church as he saith, in his discription of the Catholick Church <hi>Pag.</hi> 121. yet the self same in its distinct Congregations, to be true worshiping Congregations with whom in mind he hath fellowship.</p>
+            <p>And that they are false worshipers Idolaters, and such as with whom there can be no Communion (in this kind of worship) unless we will lye, and for<g ref="char:EOLhyphen"/>swear, and be Idolatrous <hi>&amp;c.</hi> and yet to be true worshiping Congregations. it seems strange Christian reason to me, and such an <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ministery as I can<g ref="char:EOLhyphen"/>not understand, how any persons should be a pack of Rebels to their prince, and yet at the same time a pack of good Subjects how persons should be a pack of theives, and yet at the same time to be a pack of true men, so to be a pack of Rebels to Christ, no Church, and worse then none, the plague of the Church, in its compaction under the <hi>Pope,</hi> or as Papal, and as perticular con<g ref="char:EOLhyphen"/>gregations, have mixed Gods worship with false doctrine, and Idolatrous bread worship and other unlawfull things, and yet in specie, to be true wor<g ref="char:EOLhyphen"/>shiping Congregations, and part of the Universall Church I must leave to them that excell, to understand, and with these it is, Mr. <hi>Baxter</hi> hath fellowship, as be can have with the purest Churches at a distance from them, so that as to himself, he hath equalized the <hi>Romish</hi> Churches, as to fellowship, with all other Christian Churches, and is indeed in Communion in his mind with the <hi>Romish</hi> Churches, allthough he confesseth that our Fore-fathers could not, nor probably may he, have actuall fellowship with them, unless they would lye, and forswear and be Idolatrous.</p>
+            <p>And whereas Mr. <hi>Baxter,</hi> envyeth so much at seperation as if that were, the great provoking, and damning sin of this generation and as if he were, raised up in the spirit and power of love above all other men, to a muse and affright (with the name of seperation from the Universall Church) all sincere heart<g ref="char:EOLhyphen"/>ed people to communion and fellowship with <hi>Beliah,</hi> when I may say (take Churches in the largest sence) as Mr. <hi>Baxter</hi> doth) that there are scarcely any bearing the name of Christian Churches in the world, but are seperates; all the <hi>Protestants</hi> are seperate from the <hi>Papists,</hi> what ever Mr. <hi>Baxter,</hi> dreameth and the <hi>Papists</hi> seperate from the <hi>Protestants,</hi> so far that they hang, and burn one another, the <hi>Eastern</hi> Churches seperate from the <hi>Western,</hi> the Calvinists, and <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gonists in <hi>France,</hi> from the <hi>Papist</hi> and that from their perticular Churches.</p>
+            <pb n="22" facs="tcp:171463:14"/>
+            <p> Without all humane power to provoke them to it, or countenance them in it, and on that account, come near, to the rule in their constitution.</p>
+            <p>For the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hurch▪ and Churches of Christ, are, and must be, a seperated people nor by humane power, but by the word and spirit of Christ their King, however they may be mix▪d with hypocrites, and reproached by enemies.</p>
+            <p>In a word to end this, whereas Mr. <hi>Baxter</hi> thinks, some are enemies, and traitors to Christ, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n making his Church and Kingdom too little (which pro<g ref="char:EOLhyphen"/>bably many doth) <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et whether Mr. <hi>Baxter</hi> can be less then a usurper on Christ, to make his spirituall Church and Kingdom which is not of this World, to be so large, and bad as he hath made it, scarce fit for the great <hi>Turk,</hi> or <hi>Tartar,</hi> to rule a Kingdom of enemies and Rebels to Christ, Idolaters, persecutors of the true Church adulterers, Harlots, I heives, Drunkards, Revelors, <hi>&amp;c.</hi> a Kingdom made up for Christ, that any sober Prince might blush to have such Subjects, and that which would make him a reproach among the civill Neigh<g ref="char:EOLhyphen"/>bour Nations.</p>
+            <p>And now to conclude, I shall more perticularly, and distinctly, propose some few questions to Mr. <hi>Baxter</hi> about the whole matter.</p>
+            <p n="1">1. <hi>Query.</hi> Whether you do s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>riously, and in good earnest, think that it is an honour to Christ to have such a Kingdom put upon him, as you have been pleading for <hi>i. e.</hi> his holy Kingdom <hi>his holy Temple</hi> or Church? 1 <hi>Cor.</hi> 3. 17. <hi>for the Temple of God is holy which Temple ye a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>;</hi> that Kingdom, and Church that is to be so compacted and framed together by the builders, as that it may grow up into an holy <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>emple in the Lord, this is the visible Church of Christ, and whether it would not be clear and safe to keep the distinction, and honourable to Christ too? 1. that his ruling, providential Kingdom is over all, <hi>Ps.</hi> 103. 19. and his spirituall Kingdom, in and over his people, his Church, <hi>Rev.</hi> 15. 3. and thus the Kingdom of Christ is the largest for Subjects in the first sence, and the best, most holy, and spirituall in the second sence, and so we need, to jumble up world and Church together, on supposition to honour him in multi<g ref="char:EOLhyphen"/>tude of members and largeness of Kingdom when he hath opened a way him<g ref="char:EOLhyphen"/>self for his honour upon that account.</p>
+            <p n="2">2. <hi>Que<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</hi> whether you do groundedly think, that your self and those you plead <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or are so far, and free from <hi>Babilon,</hi> as you pretend unto? and whether, the word <hi>Babilon</hi> do only import some one place or people, as is usually under<g ref="char:EOLhyphen"/>stood to be the Church of <hi>Rome</hi> as Papal? or whether <hi>Babell</hi> do not signifie confusion from the confusion of the language? <hi>Gen</hi> 11. and whether confusi<g ref="char:EOLhyphen"/>on is in members and worships in a Church do not render it to be as <hi>Babilon?</hi> 1. <hi>Cor.</hi> 14. 33. and whether any of us all, be so far from <hi>Babilon</hi> as could and should be desired? for my part I am perswaded, that the best and most
+<pb n="23" facs="tcp:171463:14"/> reformed Congregatiens have brought away so much of <hi>Babilon</hi> with them, that there is dayly n<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed of purging, and reforming both in doctrine manners, and discipline.</p>
+            <p>
+               <hi>Query.</hi> 3. Whether you do in good earnest, think, there is no world in the Scripture since, in all that which is called the christian world? world under<g ref="char:EOLhyphen"/>stood as it is exprest, and in this case must be understood as distinct from the Church, 1 <hi>John</hi> 5. 13. <hi>and we know that we are of God, and the whole world lyeth in wickedness,</hi> whether you th<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nk there is no part of the Christian world of men, lyeth in wickedness? and so are truly of the world, and whether the Christian Church should not be such as are converted and called out of this world? as, <hi>John</hi> 15. 19. what a wonderfull holy <hi>England,</hi> holy <hi>Rome,</hi> holy <hi>France,</hi> and <hi>S<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ain,</hi> and all the rest of the Nations called Christian, if no world, but all Church, no men of the world <hi>which have their portion in this life,</hi> Ps. 17. 14. surely if God bring us once to a greater distance from the world to him<g ref="char:EOLhyphen"/>self we shall be able to see clearer, and to distinguish better between the Church and the world, the Kingdom of Satan and of darkness, and the King<g ref="char:EOLhyphen"/>dom of Light, and the Son of Gods love.</p>
+            <p>
+               <hi>Qu<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ry</hi> 4. Whether you do believe, that the great design of God and Christ in the death of his Son, and the Ministeration of this glad tidings to men, was indeed to call in poor sinners to God effectually that they might be saved? or to he<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> them into the Church without grace, and make them Hypocrites, that they might be damned? if not the last, but they fi<gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, whether you can pos<g ref="char:EOLhyphen"/>sibly think, you honour Christ, in pleading for such a Church so exceeding cross to his gratious Gospell design.</p>
+            <p n="2">2. Whether it be not a matter of highest prejudice to the souls of sinners, to make them a Church, and plead for their right, on that account, and so de<g ref="char:EOLhyphen"/>ceive them, with the name of Christian, and Church thereby laying their Christianity, and Church membership as a block in their way of their con<g ref="char:EOLhyphen"/>version, and whether they may not have cause to curse the Authors of this de<g ref="char:EOLhyphen"/>ceit, when it will be to late for help?</p>
+            <p>
+               <hi>Ob.</hi> we preach conversion to them, and let them know that it is not their externall professed Christianity, that will save them but we ind<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> a soul con<g ref="char:EOLhyphen"/>version to the Lord, therefore if they repent not their damnation will be of themselves.</p>
+            <p>
+               <hi>Ans.</hi> There is something indeed in what you say, yet this will not reach the case, nor cure the wound, nor keep the Authors of this practice guiltless in this matter.</p>
+            <p n="1">1. To make members of the Universall Church, by baptism without faith or repentance, and so call them Christians, and a Church yet must preach the Doctrine of convertion to them, as to a people without God, contrary to the
+<pb n="24" facs="tcp:171463:15"/> rule and reason of the new covenant Ministerations who hath ordered the Doctrine of convertion for the world, and of building for the Church.</p>
+            <p n="2">2. nor can you easily or <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ratio<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> perswade Christians, Church members, out of their Christianity, that all their baptism and profession is nothing, and that in all you have done for them before▪ was but to make them Hypocrites your work now if any that is effectuall, is to unchristian, Christians, and let them know they must be damned unless they begin all a new and look after the right foundation, which how hardly this is <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ike to be accomplished in way of reason, may be easily judged, and is experienced daily even the most prophane, we are Christians already say they, and what need any more.</p>
+            <p>And further according to your own principle, wicked and ungodly Ministers may become pastors of such Churches, that are as much strangers to conver<g ref="char:EOLhyphen"/>tion as the people, and need not only to be Un-Ministred, but Un-Christianed. Then where will be the preaching of conversion to such Souls, so that woe is the case of the poor world, thus deluded.</p>
+            <p n="5">5. <hi>Query.</hi> Whether you were real in what you propounded in those necessa<g ref="char:EOLhyphen"/>ry things, that intitles to Baptism and Church Communion? if so, how you can possibly plead for your infant Baptism where can be no one of these things to intitle them to it? and how you could possibly use your hand and Pen at the rate, and so often us you do, in your Book against a people for practising according to wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t your self must confess to be right? and as I remember, you once confess, the sober <hi>Anabaptists,</hi> to be nearest the rule, in the reception of Members by Baptism.</p>
+            <p>Whether you are not cautious, that there is no rule in the New Covenant for any but profest <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> believers to be baptised, and that Infant Sprinkling is not only contrary to the rule but to the reason of the New Covenant? the rule the Lord hath given, and its his law that believers must be baptised, and that is enough. And this affirmative command carryeth the negative in it, and for<g ref="char:EOLhyphen"/>bids all except believers, but the reason of this Law we have likewise: in as much as the new Covenant moves not the natural, but the spiritual seed of <hi>Abraham,</hi> as the old Covenant owned the natural seed, and therefore as that seed were the Church, and <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the ordinances of that Covenant, so now the Church of the new Covenant must be the spiritual seed, <hi>Gal.</hi> 3. 29. <hi>R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m.</hi> 4 11. and they only are to pertake of the ordinances, priviledges, and ben<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fits of the new Covenant, though, its true, they may some of them be Hypocrites, that will be their sin and lose the Church should be all true believers as hath been before mentioned, and Hypocrites must give an account for their being there.</p>
+            <p n="6">6. Query Whether, 1 <hi>Cor</hi> 12. 13. with <hi>Act.</hi> 19. and 1 <hi>Cor.</hi> 5, 16. rightly understood will not tend much to c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ear this matter, 1 <hi>Cor.</hi> 12, 13. <hi>for by one</hi>
+               <pb n="25" facs="tcp:171463:15"/>
+               <hi>spirit are we all Baptised into one body &amp;c.</hi> The Apostle here speakes of the Univer<g ref="char:EOLhyphen"/>sall Visible Church, for all his Epistles, were to the Visible Church, and that they were <hi>by one spirit, baptised into one body,</hi> he speaks as it <hi>was meet, he should judge of them all,</hi> That they were come but over as to believe, so to be baptised, by that one spirit of Christ for he tells the Church <hi>Rom,</hi> 8. 9. That <hi>if any man have not the spirit of Christ he is none of his.</hi> So that by that one spirit, it must in Charity be Judged, that all that come into the Church, are wrought to it and brought over to obey the Lord in baptism, and so by one spirit are baptised into one body. Whether we may not safely infer from hence that persons that are strangers to this one spirit are in capaple ordinarily to be otherwise, can right<g ref="char:EOLhyphen"/>ly be baptised into that one body of Christ! And whether where it's palpably plain, this great ingredient, or efficient working cause is absent, such persons ought not to be baptized again? according to <hi>Acts</hi> 19. 2. 5. <hi>Where the not having so much as heard whether there be any holy spirit,</hi> is rendred as the <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of being baptized again.</p>
+            <p>And whether 2 <hi>Cor.</hi> 5. 16. rightly understood, hath not much in it to clear the matter? <hi>henceforth know we no man after</hi> the flesh, <hi>ye though we have known Christ after the flesh, yet now henceforth know we him no more,</hi> whether this text do not tend to distinguish between the knowledge of the old and new covenant? the old covenant knew and owned the fleshly seed, and so knew after the flesh, but so we, are in a Church relation, now to know no man, but men in Christ, after the spirit, <hi>viz.</hi> and this is or should be the visible Church of Christ. <hi>Ro▪</hi> 9. 8. and the fleshly seed had fleshly thoughts of Christ <hi>i. e.</hi> that he should come to save none but the fleshly seed, the old covenant Church, but he is to be known so no more, <hi>Acts</hi> 11. 1. 2. 3. 18. and 18. 21. 22.</p>
+            <p>But to draw to an end, I do believe the matter you plead for <hi>i. e.</hi> love, is in deed, as the appostle calls it, <hi>the band of perfestion,</hi> or the perfect band, had you hit right as to the subjects of our love in a Church relation, you had done worthyly but having missed there, you have missed the accomplishment of (as I hope I may say) your good intention for it is imposible to reconcile (in such a day of light) light and darkness, Christ and beliall, in such a relation as you p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ead for, I do abundantly close with you, that want of love is very much the occasion of the differences among christians at this day, and that it is the concernment of those that profess to fear the Lord, to love Christians as such though of differing apprehensions to love all men, as men, even enimies sinners, with the love of pitty and compassion, and be ready to do them good, and to do them no harm at all.</p>
+            <p>But as on a Church account, after the rule of the new covenant I shall fully give you my understanding, I according to both the rule and reason of the new covenant, the profession of repentance and faith in the Scripture sence,
+<pb n="26" facs="tcp:171463:16"/> and after that baptism is the visible orderly way of entering into the visible Church of Christ.</p>
+            <p n="2">2. That the Scripture speaks of an apostacy, or departing from the faith, 2 <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h. 2. 3. Which I do understand to be, both in faith, and worship, which is generally understood to have been accomplished in the world for some hundreds of years, and that this apostacy to be Universal so that no face of a visible Church according to the new and true rule of the Gospel could appear, but the invisible Church of worshipers of God in Spirit be preserved a long through this apostacy, <hi>Rev.</hi> 11. 1. 2. And that towards the latter end he calls his people to come forth. <hi>Rev.</hi> 18. 4. and a little beginning and entrance hath been for some time, by these instruments God hath raised in several generati<g ref="char:EOLhyphen"/>ons, but be will work it higher, to the primitive pattern, now in as much as for many years, even since <hi>Luther</hi> complains of others, the Church hath been in its travel from <hi>Babylon,</hi> and good men from time to time, have thought themselves to become fully away, when alass they have brought so much of <hi>Babylon</hi> away with them; that it is a hard matter to know, whether it be <hi>Babylon</hi> or the true Church, now in as much as this is the true state of the Church at this day, I do judge, the duty and concernment of all sober spirited Christians is, I. not to sit down in the way, and think they are gotten out of <hi>Babylon</hi> before they are.</p>
+            <p n="2">2. Not to fall foul, each with other in the way, but to walk in love, to be inquiring of, and helping one another forwards in the way. <hi>Jer.</hi> 50. 56.</p>
+            <p n="3">3. That in the way out (for we are never come fully out, till we are come to the Primitive pattern, however some think that if they should come to the Pri<g ref="char:EOLhyphen"/>mitive Pattern, it would b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing them to the Primitive poverty, which I think indeed is one great temptation in this matter, but its much better for the Church to come to the primitive pattern in faith and order, though it brings us to the primitive pove<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty, and suffering in which we should be more like our Lord, and his servants then to keep to the pattern of <hi>Babilon,</hi> and partake of <hi>Babilons</hi> ease, and dainties) Let each sort of Christians ac<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ording to their attainments in light, so walk and have their fel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>owship in the ordinances of Christ, not judging and censuring others that d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffer from them, or Un-Church<g ref="char:EOLhyphen"/>ing one another, but to account all whose design is for Christ, according to the Gospel, for the visible Church of Christ, this being done in the spirit of Christ, we might not only go mourning, but singing from <hi>Babilon</hi> to <hi>Sion,</hi> only take heed and beware,</p>
+            <p n="1">1. Of running out of one <hi>Babell</hi> into another that will leave you but a Daughter of <hi>Babilon</hi> still.</p>
+            <p n="2">
+               <pb n="27" facs="tcp:171463:16"/> 2. Take heed of sitting down by the way, before you are half way out, and think you have attained, saying as <hi>Peteer</hi> and <hi>John, Mat.</hi> 17. 4. <hi>It is good for us to be here, let us build tabernacles here.</hi> If I am not much mistaken this hath been the common failing of us all. But I shall conclude with <hi>Isa.</hi> 8. 20. <hi>To the Law and to the Testimony, if they speak not according to this rule it is because there is no light in them.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
